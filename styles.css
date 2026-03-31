@@ -2,6 +2,7 @@
 table {
 	border: solid orange;
 	border-width: 0px 0px 1px 1px;
+	border-collapse: collapse
 }
 
 th {
@@ -14,6 +15,7 @@ th, td {
 	border: solid orange;
 	border-width: 1px 1px 0px 0px;
 	padding: 3px 5px;
+	border-collapse: collapse;
 }
 
 .sub-total-text {
