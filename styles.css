@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 table {
-	border: 0px 0px 1px 1px solid orange;
+	border: solid orange;
+	border-width: 0px 0px 1px 1px;
 }
 
 th {
